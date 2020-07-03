@@ -1,5 +1,5 @@
 {
-    "name": "vipx/bot-detect-bundle",
+    "name": "stockopedia/bot-detect-bundle",
     "type": "symfony-bundle",
     "description": "Symfony VipxBotDetectBundle",
     "keywords": ["Security", "Bot"],
