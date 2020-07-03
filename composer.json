@@ -29,10 +29,5 @@
     },
     "autoload": {
         "psr-4": { "Vipx\\BotDetectBundle\\": "./" }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "4.0.x-dev"
-        }
     }
 }
